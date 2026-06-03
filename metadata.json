@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Notes",
+  "description": "Smart Student Notes is a beautiful offline notes application with subject tags, instant search, search highlights, favorites, pinning, recent note tracking, auto-save draft functionality, and robust local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
